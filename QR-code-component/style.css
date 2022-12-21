@@ -21,7 +21,7 @@ section{
 }
 .container{
     background-color: hsl(0, 0%, 100%);
-    width: 240px;
+    width: 300px;
     margin: auto;
     border-radius: 10px;
 }
@@ -35,7 +35,7 @@ section{
 }
 .card-content{
     text-align: center;
-    padding: 0 1rem;
+    padding: 0 3rem;
 
 }
 .header-content h1{
@@ -43,6 +43,6 @@ section{
     color: hsl(218, 44%, 22%);
 }
 .desciption-content p{
-    margin: 0.5rem 0 2rem 0;
+    margin: 1rem 0 2.5rem 0;
     color: hsl(220, 15%, 55%);
 }
